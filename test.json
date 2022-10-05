@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/hunter0x8/Dom-based-XSS/blob/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/hunter0x8/Dom-based-XSS/main/test.yaml",
     "urls": [
         {
-            "url": "https://github.com/hunter0x8/Dom-based-XSS/blob/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/hunter0x8/Dom-based-XSS/main/test.yaml",
             "name": "Foo"
         }
     ]
