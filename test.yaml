@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form>aaaaa</form>aaaaa
+    <form><math><mtext><h1>aaaaa
 
   version: production
 basePath: /JSSResource/
