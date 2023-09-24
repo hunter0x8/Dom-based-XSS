@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
+            <math><mtext><mglyph></mglyph><a><mglyph>
 
           format: int64
           in: path
