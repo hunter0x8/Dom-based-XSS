@@ -1,9 +1,18 @@
-{
-    "url": "https://raw.githubusercontent.com/hunter0x8/Dom-based-XSS/main/test.yaml",
-    "urls": [
-        {
-            "url": "https://raw.githubusercontent.com/hunter0x8/Dom-based-XSS/main/test.yaml",
-            "name": "Foo"
+[
+  {
+    "title": "<h1>Maple Milk Bread Recipe",
+    "subtitle": "How to make sikppang, or white bread, that the author’s mother brought home from the Korean bakeries in Atlanta when he was little. (Released March 16, 2022 by NYT Shorts)",
+    "versions": [
+      {
+        "audioFormat": "MACH1",
+        "urls": ["https://int.nyt.com/data/rd/Spatial-Audio/Guide/03_Mixing/milk_bread_mach1v2.aac",
+        "https://int.nyt.com/data/rd/Spatial-Audio/Guide/03_Mixing/milk_bread_mach1v2.opus"]
+      },
+      {
+        "audioFormat": "ATMOS",
+         "urls": ["https://int.nyt.com/data/rd/Spatial-Audio/Guide/03_Mixing/milk_bread_dd%2B_v3.mp4"]
         }
+    
     ]
-}
+  }
+]
