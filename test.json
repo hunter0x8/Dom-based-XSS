@@ -5,7 +5,7 @@
     "versions": [
       {
         "audioFormat": "<h1>aaaMACH1",
-        "urls": ["https://int.nyt.com/data/rd/Spatial-Audio/Guide/03_Mixing/milk_bread_mach1v2.aac",
+        "urls": ["https://int.nyt.com/data/rd/Spatial-Audio/Guide/03_Mixing/milk_bread_mach1v2.aac\"aaaa",
         "https://int.nyt.com/data/rd/Spatial-Audio/Guide/03_Mixing/milk_bread_mach1v2.opus"]
       },
       {
